@@ -1,0 +1,15 @@
+C:\Derslerim\struct-kavrami\bin\Debug\net6.0\struct-kavrami.exe
+C:\Derslerim\struct-kavrami\bin\Debug\net6.0\struct-kavrami.deps.json
+C:\Derslerim\struct-kavrami\bin\Debug\net6.0\struct-kavrami.runtimeconfig.json
+C:\Derslerim\struct-kavrami\bin\Debug\net6.0\struct-kavrami.dll
+C:\Derslerim\struct-kavrami\bin\Debug\net6.0\struct-kavrami.pdb
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.AssemblyReference.cache
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfoInputs.cache
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfo.cs
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.CoreCompileInputs.cache
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.dll
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\refint\struct-kavrami.dll
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.pdb
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\struct-kavrami.genruntimeconfig.cache
+C:\Derslerim\struct-kavrami\obj\Debug\net6.0\ref\struct-kavrami.dll
